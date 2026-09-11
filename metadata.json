@@ -1,0 +1,6 @@
+{
+  "name": "VALKYRIE // ARMS",
+  "description": "Precision Weaponry & Tactical Gear E-Commerce platform with ballistic telemetry and armory loadout dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
